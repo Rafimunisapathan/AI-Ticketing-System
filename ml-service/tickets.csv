@@ -1,0 +1,7 @@
+text,category
+Payment failed,Billing
+Refund not received,Billing
+Website not loading,Technical
+Server error,Technical
+Cannot login,Account
+Forgot password,Account
